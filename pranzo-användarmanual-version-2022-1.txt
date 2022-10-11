@@ -1,0 +1,354 @@
+﻿Användarmanual
+version 2022-1
+
+
+Inledning
+PRANZO är ett verktyg som underlättar hanteringen av förbruknings- eller presentkort. Systemet vänder sig till näringsidkare med återkommande försäljning som vill erbjuda sina kunder en bättre och smidigare upplevelse.
+
+
+Med PRANZO kommer såväl dina kunder som din personal och administratörer få en snabbare, smidigare och lättöverskådlig process för köp av varor och tjänster med hjälp av olika typer av förbetalda kort. 
+
+
+Det här dokumentet går igenom stegen för hur du sätter upp PRANZO-plattformen, samt den dagliga hanteringen av kort utfärdade genom systemet.
+
+
+________________
+
+
+Innehållsförteckning
+
+
+
+
+	
+
+	Översikt av funktioner
+	3
+	Skapa ett konto
+	8
+	Konfigurera ditt företag
+	9
+	Skapa ett lager av kort
+	11
+	Aktivera ett kort
+	13
+	Ta emot dina gäster/kunder
+	18
+	
+
+
+
+
+
+________________
+
+
+Översikt av funktioner
+
+
+I den här avsnittet kommer vi på ett överskådlig sätt presentera de viktigaste funktionerna i PRANZO-plattformen.  PRANZO-plattformen är en så kallad molntjänst med ett webbaserat användargränssnitt. Det betyder att du som användare inte behöver installera någon programvara på din dator, men behöver antingen en dator, surfplatta eller mobiltelefon med internetuppkoppling för att kunna använda plattformen. 
+
+
+Du kommer åt PRANZO-plattformen på adressen https://pranzo.se 
+
+
+Plattformen kan användas på svenska eller engelska. Det finns också två färglägen att välja mellan. Ett ljust läge och ett mörkt läge som enligt många är något skonsammare för ögonen. Användargränssnittet på Pranzo.se följer riktlinjer för tillgänglighet enligt Web Content Accessibility Guidelines 2.1 (WCAG 2.1). 
+
+
+
+
+  
+
+	  
+
+	  
+
+	  
+
+	
+
+Termer och uttryck
+Vi vill börja med att förtydliga vissa termer och uttryck vi använder inom plattformen.
+
+
+TYP AV KORT - PRANZO-plattformen gör det möjligt att utfärda två typer eller varianter av kort. FÖRBRUKNINGS- eller PRESENTKORT. 
+
+
+FÖRBRUKNINGSKORT - Ett kort med ett värde som består av ett antal konsumtionstillfällen. Om du driver en restaurang eller ett café, då kan ett kort vara “laddad” med till exempel 10 eller 15 luncher. Om du är en PT på ett gym, eller Pro på en golfklubb, då kan kortet istället anses vara “laddat” med antal träningstillfällen eller lektioner. Varje gång du levererar din produkt eller tjänst förbrukas saldot på kundens kort.
+
+
+FÖRBRUKNINGSKORT är ett bra och effektivt sätt att knyta dina kunder eller gäster närmare ditt företag genom att erbjuda vissa rabatter samtidigt som du får betalt i förväg. 
+
+
+PRESENTKORT - Ett kort med ett värde satt i din valuta (för närvarande svenska kronor eller euro). Kortet kan laddas med olika valörer och användas för att handla hos dig som utfärdat det. Vi varje köptillfälle minskar saldot på kortet med motsvarande summa som kunden handlat för.  
+
+
+PRESENTKORT kan marknadsföras inom ramen för ett lojalitetsprogram, som gåvor eller som ett sätt att erbjuda rabatter (betala 900 kr för ett 1000-kronors presentkort)
+
+
+LAGER -  Alla kort som skapats för ditt företag utgör ett så kallat lager. Det kostar ingenting att lagerföra kort så länge de inte är aktiva, dvs har sålts till eller tilldelats en kund och detta har registrerats i plattformen. Det finns vissa begränsningar för hur många kort du kan skapa och lagerföra åt gången. Skulle du nå ett tak kommer supporten att hjälpa dig att skapa fler. 
+
+
+AKTIVA KORT - Kort som ska användas av en av dina kunder, måste först aktiveras av dig och tilldelas respektive kund. I och med att PRANZO-plattformen använder så kallade QR-koder för att identifiera varje kort, måste kortet levereras till kunden. Detta görs enklast över mail, men det gå självklart även att skriva ut kort på plats och räcka över det till kunden. 
+ 
+Observera att aktivering av ett kort medför kostnader för ditt företag.
+
+
+DIGITALA KORT - Varje typ/variant av PRANZO-kort kan sparas på kundens mobiltelefon (Apple eller Android). När ett kort aktiveras är det möjligt att skapa en länk som kunden får besöka och lägga till kortet i sin telefons digitala plånbok. Notera att ett digitalt kort kostar 5 kr i tillägg till det ordinarie priset. 
+
+
+PAPPER/PLASTKORT - PRANZO-kort är ett komplement till traditionella pappers- eller plastkort. Om du eller dina kunder önskar, kan varje kort skrivas ut och lämnas över till kunden. För närvarande finns tre olika utseenden för korten och de kommer väl markerade med ditt företagsnamn eller logotyp. 
+
+
+Som ett tilläggstjänst kan du beställa partier med tryckta kort om du vill ha dem i lager. Om du har tillgång till en kortskrivare kan du självklart skriva ut korten på plats. Kontakta supporten om du vill veta mer om den typen av tjänster.
+
+
+________________
+Ett enklare och smidigare sätt?
+
+
+  
+
+
+
+Om vi tänker oss ett scenario med en restaurang som tar emot en av sina stamgäster som ska äta sin lunch. Hen har varit förutseende och köpt ett kort som ger hen en gratis lunch. Det kostade visserligen en del, men i och med att den här lunchkrogen är bra och ligger nära arbetsplatsen, är det väl värt att ligga ute med lite pengar mot den besparingen det innebär. 
+
+
+Det är mycket folk på restaurangen. Väl framme vid kassan visar han upp det papperskort som han fick från restaurangen för personen i kassan. Kortet markeras med en stämpel som indikerar att det nu bara finns två luncher kvar att utnyttja. Det är dags att köpa nytt kort snart. Hen bestämmer sig för att göra det nästa gång det inte är så mycket folk i kön.  Nu är det bara att stoppa ner kortet i plånboken, ta sin mat och sätta sig att äta.
+
+
+I det här exemplet har kunden visat upp sitt kort i kassan, personalen har för hand fått markera att kortets saldo har minskat med en portion och transaktionen är klar. 
+
+
+Vi menar på att det finns ett bättre och smidigare sätt att hantera ovanstående. Om gästen istället har ett digitals PRANZO-kort sparat i sin mobila plånbok (Apple Wallet eller Google Wallet), kan hen visa upp mobilen, få den skannad av kassapersonalen och ser saldot på sitt digitala kort minska med en portion. Restaurangen har också ett spår av transaktionen som i slutet av arbetspasset kan ligga till grund för en rapport som bifogas till kassasammanställningen. 
+
+
+Ett annat scenario tar oss till en golfklubb som utfärdar presentkort som de ger sina medlemmar som pris i tävlingar de anordnar. På anläggningen finns både shop och restaurang som drivs av lokala entreprenörer (med egna företag). På varje presentkort som utfärdas väljer administratören vilket av ställena kortet är giltigt på samt vilken valör det har. När kortet väl används, anger kassapersonalen hur mycket har förbrukats och saldot på kortet minskar med motsvarande belopp. Entreprenören fakturerar sedan, med jämna intervaller, golfklubben den totala summan som de lämnat ut varor för. 
+
+
+På samma golfklubb säljs även förbrukningskort som gäller för lektioner med klubbens Pro. 
+
+
+I det här scenariot underlättades ekonomiska förehavanden mellan olika företag och kostnadsställen. Innan PRANZO-plattformen började användas var presentkorten i pappersformat, man var tvungen att använda upp hela värdet på en gång, och det krävdes att entreprenören gjorde en manuell sammanställning av hur mycket de hade tagit emot varje månad innan en faktura kunde ställas ut. Med PRANZO har man förbättrat både kundupplevelsen och förenklat och effektiviserat hanteringen.
+
+
+
+
+
+
+________________
+Skapa ett användarkonto
+Att skapa ett konto på PRANZO.se är det första steget för att kunna använda våra tjänster.
+
+
+För att komma till sidan för registrering, klickar du på “Registrera”-knappen uppe i menyraden, eller navigerar din webbläsare till https://pranzo.se/auth/sign-up
+
+
+  
+
+
+
+Fyll i formuläret med ditt namn, mailadress och önskat lösenord. Du måste även upprepa lösenordet för att bekräfta att du inte har gjort något fel och kan komma ihåg det. Klicka på “Skicka”-knappen. 
+
+
+Systemet kommer att göra en kontroll av din mailadress för att säkerställa att det inte redan finns ett konto med den adressen registrerat. Om allting är i sin ordning, kommer du att automatiskt loggas in i systemet. Applikationens menyrad kommer att ändras och kommer se ut ungefär så här. Notera att det nu kommer att finnas ett nytt val i menyn: “Mitt företag” (engelska: “My venue”). 
+
+
+  
+
+Du kommer också att automatiskt skickas vidare till en administratörspanel där du bland annat kan sätta upp ditt företag. 
+
+
+
+
+Konfigurera ditt företag
+Under menyn “Mitt företag” kommer du att kunna välja “Lägg till företag” (engelska: “Set up your venue”). Om du klickar där, kommer du komma till ett formulär där du kan fylla i grundläggande uppgifter om ditt företag. Vi kräver enbart ett minimum av uppgifter och du kommer kunna ändra dessa och lägga till fler vid ett senare tillfälle. 
+
+
+  
+
+
+
+I formuläret anger du namnet på ditt företag, en beskrivning och en mailadress till företaget. Det är två viktiga saker som du måste tänka på:
+
+
+NAMN - Företagsnamnet kommer att användas på kort utfärdade genom PRANZO-plattformen. 
+
+
+PRIMÄR MAILADRESS - Den här adressen måste skilja sig från den du använde när du skapade ditt personliga konto på PRANZO. Oftast är det en info@-address. Vi kommer att använda den här adressen för att skicka ut rapporter och även sätta upp ett back-up konto som kan användas för att komma åt företagets inställningar utan att använda dina privata kontouppgifter.
+
+
+Skicka formuläret och vänta på bekräftelse. Det kan till exempel se ut ungefär så här: 
+
+
+
+
+  
+
+	  
+
+	Notera att det nu finns ytterligare ett element på menyn “Kort” (engelska: “Vouchers”) med två valmöjligheter: “Hantera kort” och “Skapa” (det är i den vyn du fyller på ditt lager av kort). Vi kommer att fokusera på att skapa kort först. 
+
+
+  
+
+
+
+________________
+
+
+Skapa ett lager av kort
+Efter att du har lagt till ditt företag, kommer du kunna skapa ett lager av kort. Du kommer att mötas av den här vyn, som innehåller ett formulär där du kan ange vilka kort du vill fylla på ditt lager med. Beroende på vad du vill göra, kommer det här formuläret att ändra utseende och ge dig andra valmöjligheter. 
+
+
+  
+
+
+
+ANTAL - är ett fält där du anger hur många kort du vill skapa. Börja med ett lågt antal kort. Det finns ingen anledning att belasta ditt system med för mycket jobb. Varje kort du skapar tar en liten stund (ca 0,5 sekunder) och du får vänta länge om du skapar många kort åt gången. 
+
+
+KORTTYP - Du kan välja mella att skapa FÖRBRUKNINGS-  eller PRESENTKORT (se avsnittet “Termer och uttryck” för en närmare förklaring av dessa korttyper).
+
+
+VÄRDE - Om du skapar FÖRBRUKNINGSKORT, anger du antal portioner kortet ska laddas med. För närvarande är värdet satt till 10 eller 15. Om du skapar PRESENTKORT, ange istället hur mycket pengar kortet avses vara laddad med. Även i det här fallet finns det fördefinierade värden för dig att välja mellan. Det är inte möjligt att sätta egna värden utöver de som redan finns i systemet. 
+
+
+  
+
+
+
+
+
+Alla fälten är obligatoriska.  Skulle du missa att fylla i eller göra ett val i något av fälten, kommer ett felmeddelande att visas på skärmen. 
+
+
+När du klickar på “Skicka” kommer det ta en liten stund innan du får en bekräftelse och  skickas vidare till nästa vy. Du måste upprepa den här processen för varje typ och valör av kort su vill lägga till till ditt lager. 
+
+
+
+
+  
+
+ 
+________________
+Aktivera ett kort
+Innan ett kort kan användas, måste det aktiveras. Det görs oftast i samband med att du säljer ett FÖRBRUKNINGSKORT (som t ex ett lunchkort), eller utfärdar ett PRESENTKORT. 
+
+
+Du hittar vyn för hantering av kort på menyn under “Kort”.
+
+
+   
+
+
+Om du inte tidigare har några aktiva kort, kommer du mötas av en tom lista. Du måste klicka på “Visa inaktiva” för att kunna se ditt lager av kort. 
+
+
+  
+
+
+
+När du väljer “Visa inaktiva” fylls listan med de kort du skapade när du fyllde på lagret. 
+
+
+  
+
+
+
+Genom att klicka på en valfri rad i listan, öppnar du upp en undermeny som finns för varje kort. När ett kort är inaktivt, ser du en knapp med texten “Aktivera”. Du kan nu påbörja en aktivering av ett kort. 
+
+
+  
+
+
+
+I den här vyn ska du göra ett antal val och fylla i nödvändig information och klicka på “Skicka”..
+
+
+MAILADRESS: Ett kort bör ha en ägare som ska kunna identifieras. Om du har din kund närvarande när du aktiverar ett kort, frågar du helt enkelt hen om en mailadress och fyller i det i formuläret. Det underlättar framtida kontakter med kunden och distributionen av kort (både digitala och kort för utskrift). Skulle din kund inte vilja uppge en mailadress, bör du använda en som du kan komma åt. PRANZO kommer  att skicka ut ett mail som innehåller viktig information. 
+
+
+
+
+  
+
+
+
+SKAPA ETT DIGITALT KORT? Fråga kunden om hen vill spara sitt kort på sin mobiltelefon. Tänk på att det tillkommer en kostnad för att skapa digitala kort som kan användas med Apple eller Google Plånbok (Wallet). Den baserar sig på de avgifter vi på PRANZO behöver betala för att kunna utfärda och spara kort i användarnas digitala plånböcker. Om kunden inte avser att använda sitt kort på mobilen, är det helt onödigt att skapa en digital version.. 
+
+
+Stegen som kunden måste ta för att spara kortet i sin mobila plånbok är 1.) öppna länken i mailet (se ovan) och 2.) Scanna QR koden som visas på skärmen med sin telefon. Om hen öppnar länken direkt på telefonen kommer det se lite annorlunda ut än på en datorskärm men  innehålla instruktioner för hur man sparar kortet i sin plånbok. 
+
+
+
+
+  
+
+	  
+
+	  
+
+	  
+
+	
+
+
+
+Ovan visar vi stegen i en installation genom länk på dator. Vissa av dina kunder kommer att behöva hjälp med det här steget. 
+
+
+SKAPA PDF? Ett alternativ som många använder är att skapa ett kort i pdf-format. PDF (Portable Document Format), är ett digitalt dokumentformat som är väl spritt och kan öppnas på de flesta datorer och mobila enheter. Om det här valet görs i samband med aktiveringen, kommer kortet att bifogas till det ovan nämnda mailet som PRANZO skickar till din kund. Notera att om du använder din egna mailadress, måste du kunna skriva ut det mailet och ge det till din kund i pappersformat. 
+
+
+Du måste även bestämma vilket språk och design ditt kort ska ha. Korten kan utfärdas med svenska eller engelska som språk. Det finns för närvarande tre stycken olika standarder att välja på. Om ditt företag behöver en egen design på era kort, kan ni beställa det som en extra tjänst. Kontakta i så fall vår support.
+
+
+Nedan ser du hur ett FÖRBRUKNINGS- och ett PRESENTKORT ser ut i pdf-format. Dessa kort, som skickas till kunden över mail, kan sparas på en mobil eller skrivas ut. Det viktiga är att kunden kan visa upp QR koden för personalen i kassan. Hur hen gör det, är av underordnad betydelse. 
+
+
+  
+
+	  
+
+	  
+
+	Design 1
+	Design 2
+	Design 3
+	  
+
+	  
+
+	  
+
+	
+
+
+
+
+
+
+
+________________
+
+
+Ta emot dina gäster/kunder
+Samma vy där du aktiverade kort, används för att ta emot och hantera dina kort när dina kunder handlar hos dig. Oavsett om du väljer att slå in ett pris i ditt kassasystem eller inte, behöver du uppdatera det FÖRBRUKNINGS- eller PRESENTKORT som kunden vill använda. Det lättaste sättet är att alltid ha PRANZO öppet på en dator eller mobiltelefon som kassapersonalen använder. Kunden visar helt enkelt upp QR-koden för personalen i kassan, som skannar av den med kameran eller en separat barkod-läsare. När det aktuella kortet har hittats i syns en knapp med texten “Skapa transaktion”.
+
+
+Genom att klicka på den knappen för ett FÖRBRUKNINGSKORT, öppnas ett så kallat popup fönster som indikerar att du kommer att minska kortets saldo med en portion. Du bekräftar transaktionen genom att klicka “Skapa”. 
+
+
+
+
+  
+
+	  
+
+	
+
+Om kunden har ett DIGITALT KORT sparat i sin mobila plånbok, ser hen att saldot minskat. Om hen har ett PDF-KORT behöver han besöka en speciell webbsida för att kunna kontrollera sitt saldo: bit.ly/pranzo_card (under utveckling).
+
+
+En liknande procedur följs om det handlar om PRESENTKORT, med den skillnaden att kassapersonalen skriver in den totala summan som kunden handlat för i popup fönster, innan hen klickar “Skicka”. Kortets saldo minskar då med motsvarande summa. Man kan inte skriva in ett belopp som är större än kortets nuvarande/återstående saldo.
