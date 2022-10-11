@@ -1,0 +1,102 @@
+﻿User manual
+version 2022-1
+
+
+Introduction
+PRANZO is a tool that facilitates the handling of consumption or gift cards. The system is aimed at traders with recurring sales who want to offer their customers a better and smoother experience.
+
+
+With PRANZO, your customers as well as your staff and administrators will get a faster, smoother and easier to understand process for purchasing goods and services.
+
+
+This document goes through the steps for setting up the PRANZO platform, as well as the day-to-day management of cards issued through the system.
+________________
+Table Of Contents
+
+
+
+
+	
+
+	Function overview
+	1
+	Create an account
+	2
+	Configure your venue
+	3
+	Create an inventory of vouchers
+	4
+	Activate a voucher
+	5
+	Working with guests/clients
+	5
+	
+
+
+
+
+
+________________
+
+
+
+
+
+
+Function overview
+In this section, we will present the most important functions of the PRANZO platform in a clear manner. We would like to start by clarifying certain terms and expressions we use within the platform. .
+
+
+CARD VARIANTS - The PRANZO platform makes it possible to issue two types or variants of cards. CONSUMPTION  and GIFT CARDS.
+
+
+CONSUMPTION CARDS - A card with a value that consists of a number of consumption opportunities. If you run a restaurant or coffee shop, then a card can be "loaded" with, for example, 10 or 15 lunches or coffees. If you are a Personal trainer at a gym, or a Pro at a golf club, then the card can be considered "loaded" with the number of training sessions or lessons. Each time you deliver your product or service, the balance of the customer's card is consumed.
+
+
+CONSUMPTION CARDS are a good and effective way to tie your customers or guests closer to you by offering certain discounts while getting paid in advance.
+
+
+GIFT CARD - A card with a value set in your currency (currently Swedish krona or Euro). The card can be loaded with different denominations and used to shop at the issuing venue. At each purchase, the balance on the card is reduced by the corresponding amount for which the customer shopped.
+
+
+GIFT CARDS can be marketed as part of a loyalty program, as gifts or as a way to offer discounts (pay €90 for a €100 gift card)
+
+
+INVENTORY  - All cards created for your company form an inventory. It costs nothing to stock cards in your inventory, as long as they are not active, i.e. have been sold or assigned to a customer and registered in the platform. There are some limits to how many cards you can create and stock at a time. Should you reach a cap, support will help you create more.
+
+
+ACTIVE CARDS - For a card to be used by one of your customers, it must first be activated by you and assigned to the respective customer. As the PRANZO platform uses so-called QR codes to identify each card, the card must be delivered to the customer. This is most easily done via email, but it is of course also possible to print a card on site and hand it to the customer. 
+
+
+Please note that activating a card incurs costs for your business. 
+
+
+DIGITAL CARDS - Each type/variant of PRANZO cards can be saved on the customer's mobile phone (Apple or Android). When a card is activated, it is possible to create a link that the customer can visit and add the card to their phone's digital wallet. 
+
+
+Note that a digital card costs €0.5 in addition to the regular price and incurs on card activation.
+
+
+PAPER/PLASTIC CARDS - PRANZO cards are a complement to traditional paper or plastic cards. If you or your customers wish, each card can be printed and handed over to the customer. There are currently three different designs for the cards, and they come clearly marked with your company name or logo.
+
+
+You can order batches of printed cards if you want to have them in stock at your premises.. If you have access to a card printer, you can of course print the cards on site.
+
+
+A simpler and smoother way?
+If we imagine a scenario with a restaurant that receives one of its regulars who is going to eat his lunch. He has been foresighted and bought a card that gives him a free lunch. It did cost a bit, but as this lunch restaurant is good and is close to the workplace, it is well worth spending a little money for the savings it entails.
+
+
+There are a lot of people in the restaurant. When it's his turn to pay, he shows the paper card he got from the restaurant to the cashier. The card is marked with a stamp indicating that there are now only two lunches left to use. It's time to buy a new card soon. He decides to do it the next time there aren't so many people in the queue. Now it's just for him to put the card in his wallet, take his food and sit down to eat.
+
+
+In this example, the customer has presented their card at the till, the staff has manually marked that the card's balance has decreased by 1 portion, and the transaction is complete.
+
+
+We believe there is a better and smoother way to handle this scenario. If the guest instead has a digital PRANZO card saved in his mobile wallet (Apple Wallet or Google Wallet), then he can show the mobile, have it scanned by the checkout staff and see the balance on his digital card decrease by one portion. The restaurant also has a trace of the transaction, which at the end of the work shift can form the basis of a report that is attached to the cash register.
+
+
+Another scenario takes us to a golf club that issues gift cards that they give to their members as prizes in competitions they organize. The facility has both a shop and a restaurant run by local entrepreneurs (with their own companies). On each gift card that is issued, the administrator chooses which of the places the card is valid at, as well as the denomination. Once the card is used, the cashier indicates how much has been spent and the balance on the card is reduced by the corresponding amount. The contractor then, at regular intervals, invoices the golf club for the total amount for which they have released goods. At the same golf club, consumption cards are also sold that are valid for lessons with the club's Pro.
+
+
+In this scenario, financial transactions between different companies and cost centers were facilitated and simplified. Before the PRANZO platform was used, the gift cards were in paper format, the entire value had to be used up at once, and the contractor was required to do a manual tally of how much they had received each month before an invoice could be issued. With PRANZO, they have improved both the customer experience and simplified and streamlined handling.
